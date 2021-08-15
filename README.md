@@ -29,8 +29,8 @@ In this project, a Frequency Meter is implemented using **STM32F401** microcontr
  
  * ### Frequency Meter
 <p align="center">
-<img src="/Images/STM32-Input-Capture-Example-HAL-Frequency-Counter-Measurement.jpg" width="600" height="300" align="center">
+<img src="/Images/STM32-Input-Capture-Example-HAL-Frequency-Counter-Measurement.jpg" width="550" height="300" align="center">
  </p>
  <p align="center">
-<img src="/Images/Measure_Period_and_Frequency.png" width="600" height="200" align="center">
+<img src="/Images/Measure_Period_and_Frequency.png" width="550" height="200" align="center">
  </p>
