@@ -1,5 +1,5 @@
 # ARM_Frequency_Meter
-In this project, a Frequency Meter is implemented using STM32F401 microcontroller and STM32CubeIDE. Also the systems is simulated in Proteus to test the functionality.
+In this project, a Frequency Meter is implemented using **STM32F401** microcontroller and **STM32CubeIDE**. Also the systems is simulated in **Proteus** to test the functionality.
 
 * ### STM32F401
   The STM32F401 microcontrollers are part of the STM32 Dynamic Efficiency™ device range. These devices offer the best balance of dynamic power consumption (in run mode) and processing performance, while integrating a high number of added-value features in packages as small as 3 x 3 mm.
@@ -21,3 +21,16 @@ In this project, a Frequency Meter is implemented using STM32F401 microcontrolle
 <img src="/Images/STM32F401.png" width="300" height="300" align="center">
  </p>
   
+* ### STM32CubeIDE
+  STM32CubeIDE is an all-in-one multi-OS development tool, which is part of the STM32Cube software ecosystem. STM32CubeIde Board PhotoSTM32CubeIDE is an advanced C/C++ development platform with peripheral configuration, code generation, code compilation, and debug features for STM32 microcontrollers and microprocessors.
+<p align="center">
+<img src="/Images/STM32CubeIDE.JPG" width="700" height="300" align="center">
+ </p>
+ 
+ * ### Frequency Meter
+<p align="center">
+<img src="/Images/STM32-Input-Capture-Example-HAL-Frequency-Counter-Measurement.jpg" width="700" height="300" align="center">
+ </p>
+ <p align="center">
+<img src="/Images/Measure_Period_and_Frequency.png" width="700" height="300" align="center">
+ </p>
