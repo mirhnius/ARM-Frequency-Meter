@@ -1,4 +1,4 @@
-# ARM_Frequency_Meter
+# ARM-Frequency-Meter
 In this project, a Frequency Meter is implemented using **STM32F401** microcontroller and **STM32CubeIDE**. Also the systems is simulated in **Proteus** to test the functionality.
 
 * ### STM32F401
